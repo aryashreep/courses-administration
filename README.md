@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/aryashreep/courses-administration/workflows/Node.js%20CI/badge.svg?branch=master)
+
 # Starter Kit for Building Applications in React and Redux
 
 ## Get Started
